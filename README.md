@@ -32,6 +32,8 @@ En este repositorio comparto mis write-ups de máquinas de plataformas como **Ha
 > **[AutoNMAP](https://github.com/BanYio/AutoNMAP)**
 > 
 > **[Hosts_Discover](https://github.com/BanYio/Hosts_Discover)**
+>
+> **[Kali-Custom-Installer](https://github.com/BanYio/Kali-Custom-Installer)**
 
 Aquí podrás encontrar las herramientas y scripts que he desarrollado para automatizar diversas tareas en ciberseguridad ofensiva.
 
