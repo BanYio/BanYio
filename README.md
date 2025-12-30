@@ -37,7 +37,7 @@ En este repositorio comparto mis write-ups de máquinas de plataformas como **Ha
 >
 >  **[OrangePi2W-I3-Debian](https://github.com/BanYio/OrangePi2w-I3-Debian-Config)**
 >
-> > **[I3-Debian-Installer](https://github.com/BanYio/Auto-i3-Debian13)**
+> **[I3-Debian-Installer](https://github.com/BanYio/Auto-i3-Debian13)**
 
 Aquí podrás encontrar las herramientas y scripts que he desarrollado para automatizar diversas tareas en ciberseguridad ofensiva.
 
