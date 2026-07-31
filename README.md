@@ -8,9 +8,10 @@ Soy un apasionado de la ciberseguridad ofensiva y actualmente me estoy preparand
 
 ### 🎓 Certificaciones 🎓
 - ✅ **eJPTv2** (eLearnSecurity Junior Penetration Tester) ✅
-- Preparándome para **eCPPTv3** (eLearnSecurity Certified Professional Penetration Tester)
+- Preparándome para **CRTO** (Certified Red Team Operator)
 
 ### 🔐 Áreas de interés: 🔐
+- Red Team
 - Pruebas de penetración (Pentesting)
 - Hacking Ético
 - Desarrollo de herramientas de ciberseguridad
@@ -35,7 +36,7 @@ En este repositorio comparto mis write-ups de máquinas de plataformas como **Ha
 >
 > **[Kali-Custom-Installer](https://github.com/BanYio/Kali-Custom-Installer)**
 >
->  **[OrangePi2W-I3-Debian](https://github.com/BanYio/OrangePi2w-I3-Debian-Config)**
+> **[OrangePi2W-I3-Debian](https://github.com/BanYio/OrangePi2w-I3-Debian-Config)**
 >
 > **[I3-Debian-Installer](https://github.com/BanYio/Auto-i3-Debian13)**
 
