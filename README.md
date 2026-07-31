@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/6cf78678-e275-4e84-b54d-4b9fc66253dc)
 
-### 🚀 Pentester | Hacking Ético | Ciberseguridad Ofensiva | eJPTv2 | eCPPTv3 in progress 🚀
+### 🚀 Red Teamer | Pentester | Hacking Ético | Ciberseguridad Ofensiva | eJPTv2 | CRTO in progress 🚀
 
 Soy un apasionado de la ciberseguridad ofensiva y actualmente me estoy preparando para convertirme en un **Pentester** profesional. Me especializo en **hacking ético**, con un enfoque en pruebas de penetración, desarrollo de scripts y herramientas de hacking, así como en la creación de guías y write-ups.
 
